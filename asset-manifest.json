@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/WeatherSearch/static/css/main.839a7fac.chunk.css",
-    "main.js": "/WeatherSearch/static/js/main.2048a605.chunk.js",
-    "main.js.map": "/WeatherSearch/static/js/main.2048a605.chunk.js.map",
-    "runtime~main.js": "/WeatherSearch/static/js/runtime~main.0f80e47b.js",
-    "runtime~main.js.map": "/WeatherSearch/static/js/runtime~main.0f80e47b.js.map",
-    "static/css/2.ea46f295.chunk.css": "/WeatherSearch/static/css/2.ea46f295.chunk.css",
-    "static/js/2.6fe06134.chunk.js": "/WeatherSearch/static/js/2.6fe06134.chunk.js",
-    "static/js/2.6fe06134.chunk.js.map": "/WeatherSearch/static/js/2.6fe06134.chunk.js.map",
-    "index.html": "/WeatherSearch/index.html",
-    "precache-manifest.8ac6d71d2ccc3acddb4775be256d621c.js": "/WeatherSearch/precache-manifest.8ac6d71d2ccc3acddb4775be256d621c.js",
-    "service-worker.js": "/WeatherSearch/service-worker.js",
-    "static/css/2.ea46f295.chunk.css.map": "/WeatherSearch/static/css/2.ea46f295.chunk.css.map",
-    "static/css/main.839a7fac.chunk.css.map": "/WeatherSearch/static/css/main.839a7fac.chunk.css.map",
-    "static/media/background.jpg": "/WeatherSearch/static/media/background.369ce7cc.jpg",
-    "static/media/weather-icons.css": "/WeatherSearch/static/media/weathericons-regular-webfont.ecaf8b48.svg"
+    "main.css": "/weathersearch/static/css/main.839a7fac.chunk.css",
+    "main.js": "/weathersearch/static/js/main.66f2d290.chunk.js",
+    "main.js.map": "/weathersearch/static/js/main.66f2d290.chunk.js.map",
+    "runtime~main.js": "/weathersearch/static/js/runtime~main.fa498d8f.js",
+    "runtime~main.js.map": "/weathersearch/static/js/runtime~main.fa498d8f.js.map",
+    "static/css/2.6e54ac2d.chunk.css": "/weathersearch/static/css/2.6e54ac2d.chunk.css",
+    "static/js/2.6fe06134.chunk.js": "/weathersearch/static/js/2.6fe06134.chunk.js",
+    "static/js/2.6fe06134.chunk.js.map": "/weathersearch/static/js/2.6fe06134.chunk.js.map",
+    "index.html": "/weathersearch/index.html",
+    "precache-manifest.bb41420e4a8e46f51b1e4545b3b6b2b2.js": "/weathersearch/precache-manifest.bb41420e4a8e46f51b1e4545b3b6b2b2.js",
+    "service-worker.js": "/weathersearch/service-worker.js",
+    "static/css/2.6e54ac2d.chunk.css.map": "/weathersearch/static/css/2.6e54ac2d.chunk.css.map",
+    "static/css/main.839a7fac.chunk.css.map": "/weathersearch/static/css/main.839a7fac.chunk.css.map",
+    "static/media/background.jpg": "/weathersearch/static/media/background.369ce7cc.jpg",
+    "static/media/weather-icons.css": "/weathersearch/static/media/weathericons-regular-webfont.ecaf8b48.svg"
   }
 }
