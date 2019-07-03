@@ -78,6 +78,7 @@ const Main = (props) => {
       const result = await fetch(item.url)
       if (!result.ok) {
         setError(true)
+        
         return null
       }
       const json = await result.json()
